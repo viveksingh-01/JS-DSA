@@ -1,0 +1,23 @@
+{
+  "name": "js-dsa",
+  "version": "1.0.0",
+  "description": "Basic Data-Structures and Algorigthms using JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viveksingh-01/JS-DSA.git"
+  },
+  "keywords": [],
+  "author": "Vivek Singh",
+  "license": "ISC",
+  "jest": {
+    "testEnvironment": "node"
+  },
+  "bugs": {
+    "url": "https://github.com/viveksingh-01/JS-DSA/issues"
+  },
+  "homepage": "https://github.com/viveksingh-01/JS-DSA#readme"
+}
